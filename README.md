@@ -7,9 +7,7 @@
    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HianySilva&layout=compact&hide_border=true&title_color=BA70D6&text_color=FFFFFF&bg_color=0d1117"/>
 </div>
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HianySilva&bg_color=0d1117&color=9e4c98&line=aa7da7&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HianySilva&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -27,5 +25,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=HTML5)
 ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
